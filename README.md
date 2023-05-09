@@ -31,6 +31,10 @@ We welcome contributions to the Campus Food Photo Archive! If you have photos of
 
 We'll review your pull request and, if everything looks good, merge your changes into the main repository.
 
+## Credits 
+
+Special thanks is given to my lovely girlfriend QIN SHUANG, it is her unwavering support that constantly make this project a better one.
+
 ## License
 
 This project is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License). See the LICENSE file for details.
